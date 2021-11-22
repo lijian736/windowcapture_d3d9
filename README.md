@@ -12,4 +12,4 @@ Windows屏幕共享程序，可以截取Windows桌面。使用Direct3D 9进行�
 下载代码，使用Visual Studio 2015 Community直接打开工程文件，编译执行即可。
 
 #### 使用说明
-
+![屏幕截取](https://gitee.com/videoaudioer/windowcapture_d3d9/raw/master/screenshot/screenshot.png "屏幕截取")  
